@@ -1,0 +1,2 @@
+GroupId,GroupName,VpcId,Description,OwnerId,InboundRulesCount,OutboundRulesCount,Tags
+sg-053665c3b31e3c71f,terraform-20230503080122031100000001,vpc-0e62736de8503972c,Managed by Terraform,177262104669,3,1,Name:my_web_sg
